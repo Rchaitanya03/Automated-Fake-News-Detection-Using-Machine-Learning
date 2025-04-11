@@ -30,3 +30,5 @@ True news Testing:
 Fake news Testing:
 
 ![image alt](https://github.com/Rchaitanya03/Automated-Fake-News-Detection-Using-Machine-Learning/blob/f557803bfed9932e83c0ecdec8fcbf3a6e6b6a0b/fndimg04.png)
+
+![image alt](https://github.com/Rchaitanya03/Automated-Fake-News-Detection-Using-Machine-Learning/blob/4b2f39b4cb2e07ec03a6d82e332b2e302edfdecf/fndimg05.png).
