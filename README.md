@@ -20,3 +20,6 @@ XGBoost demonstrated high predictive power, capturing complex patterns in the da
 The model shows promising results for practical deployment in media verification systems or browser extensions to combat misinformation online.
 
 ![image alt](https://github.com/Rchaitanya03/Automated-Fake-News-Detection-Using-Machine-Learning/blob/ff426f56b3a4ba5deab6457b3e371ec65d967d74/fndimg01.png)
+
+True news Testing:
+![image alt](https://github.com/Rchaitanya03/Automated-Fake-News-Detection-Using-Machine-Learning/blob/25fbee9764ef558539991f9020037c10341159dd/fndimg02.png)
