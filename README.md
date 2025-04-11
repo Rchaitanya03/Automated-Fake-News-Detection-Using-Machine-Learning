@@ -23,3 +23,5 @@ The model shows promising results for practical deployment in media verification
 
 True news Testing:
 ![image alt](https://github.com/Rchaitanya03/Automated-Fake-News-Detection-Using-Machine-Learning/blob/25fbee9764ef558539991f9020037c10341159dd/fndimg02.png)
+
+![image alt](https://github.com/Rchaitanya03/Automated-Fake-News-Detection-Using-Machine-Learning/blob/0452da05cb78a8ddf7400ec9de9b22da354b0fce/fndimg03.png)
